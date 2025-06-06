@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+## Tutorial
+ https://code2tutorial.com/tutorial/37e665af-ff24-4acb-8fd0-eeee88df98b1/index.md
 ## Features
 
 ### 🔨 Build Reliable & Scalable GenAI Apps
